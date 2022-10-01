@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joplaysyt
 - 👀 I’m interested in PROGRAMING WEB
 - 🌱 I’m currently learning HTML,CSS,JS
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on VinciU
 - 📫 How to reach me 
 
 <!---
